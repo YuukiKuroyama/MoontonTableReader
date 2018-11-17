@@ -1,0 +1,9 @@
+c:\users\aimar\documents\visual studio 2012\Projects\MobileLegendsTool\MobileLegendsTool\bin\Debug\MobileLegendsTool.exe.config
+c:\users\aimar\documents\visual studio 2012\Projects\MobileLegendsTool\MobileLegendsTool\obj\Debug\MobileLegendsTool.csprojResolveAssemblyReference.cache
+c:\users\aimar\documents\visual studio 2012\Projects\MobileLegendsTool\MobileLegendsTool\obj\Debug\MobileLegendsTool.Form1.resources
+c:\users\aimar\documents\visual studio 2012\Projects\MobileLegendsTool\MobileLegendsTool\obj\Debug\MobileLegendsTool.Properties.Resources.resources
+c:\users\aimar\documents\visual studio 2012\Projects\MobileLegendsTool\MobileLegendsTool\obj\Debug\MobileLegendsTool.csproj.GenerateResource.Cache
+c:\users\aimar\documents\visual studio 2012\Projects\MobileLegendsTool\MobileLegendsTool\bin\Debug\MobileLegendsTool.exe
+c:\users\aimar\documents\visual studio 2012\Projects\MobileLegendsTool\MobileLegendsTool\bin\Debug\MobileLegendsTool.pdb
+c:\users\aimar\documents\visual studio 2012\Projects\MobileLegendsTool\MobileLegendsTool\obj\Debug\MobileLegendsTool.exe
+c:\users\aimar\documents\visual studio 2012\Projects\MobileLegendsTool\MobileLegendsTool\obj\Debug\MobileLegendsTool.pdb
